@@ -1,0 +1,8 @@
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\exception\enums\AuthExceptionEnum.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\pojo\LoginUser.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\exception\PermissionException.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\context\LoginContext.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\context\LoginContextHolder.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\exception\AuthException.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\annotation\Permission.java
+E:\platform\common-platform-support\common-platform-auth\src\main\java\com\common\platform\auth\service\AuthService.java

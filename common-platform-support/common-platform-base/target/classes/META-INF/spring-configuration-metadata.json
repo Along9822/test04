@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "name": "mail",
+      "type": "com.common.platform.base.config.mail.Mail",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mail.flag",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.common.platform.base.config.mail.Mail",
+      "defaultValue": false
+    },
+    {
+      "name": "mail.from",
+      "type": "java.lang.String",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    },
+    {
+      "name": "mail.host",
+      "type": "java.lang.String",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    },
+    {
+      "name": "mail.nickname",
+      "type": "java.lang.String",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    },
+    {
+      "name": "mail.pass",
+      "type": "java.lang.String",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    },
+    {
+      "name": "mail.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.common.platform.base.config.mail.Mail",
+      "defaultValue": 0
+    },
+    {
+      "name": "mail.receivers",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "com.common.platform.base.config.mail.Mail"
+    }
+  ],
+  "hints": []
+}
